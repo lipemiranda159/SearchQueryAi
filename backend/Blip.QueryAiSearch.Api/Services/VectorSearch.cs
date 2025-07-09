@@ -1,6 +1,6 @@
-﻿using Blip.QueryAiSearch.Api.Models;
+﻿using QueryAiSearch.Api.Models;
 
-namespace Blip.QueryAiSearch.Api.Services
+namespace QueryAiSearch.Api.Services
 {
     public static class VectorSearch
     {

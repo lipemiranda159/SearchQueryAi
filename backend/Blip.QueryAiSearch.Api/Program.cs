@@ -1,4 +1,4 @@
-using Blip.QueryAiSearch.Api.Services;
+using QueryAiSearch.Api.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

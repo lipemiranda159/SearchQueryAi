@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lipem\\GitProject\\SearchQueryAi\\backend\\Blip.QueryAiSearch.Api\\Blip.QueryAiSearch.Api.csproj": {}
+    "C:\\Users\\lipem\\GitProject\\SearchQueryAi\\backend\\Blip.QueryAiSearch.Api\\QueryAiSearch.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lipem\\GitProject\\SearchQueryAi\\backend\\Blip.QueryAiSearch.Api\\Blip.QueryAiSearch.Api.csproj": {
+    "C:\\Users\\lipem\\GitProject\\SearchQueryAi\\backend\\Blip.QueryAiSearch.Api\\QueryAiSearch.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lipem\\GitProject\\SearchQueryAi\\backend\\Blip.QueryAiSearch.Api\\Blip.QueryAiSearch.Api.csproj",
-        "projectName": "Blip.QueryAiSearch.Api",
-        "projectPath": "C:\\Users\\lipem\\GitProject\\SearchQueryAi\\backend\\Blip.QueryAiSearch.Api\\Blip.QueryAiSearch.Api.csproj",
+        "projectUniqueName": "C:\\Users\\lipem\\GitProject\\SearchQueryAi\\backend\\Blip.QueryAiSearch.Api\\QueryAiSearch.Api.csproj",
+        "projectName": "QueryAiSearch.Api",
+        "projectPath": "C:\\Users\\lipem\\GitProject\\SearchQueryAi\\backend\\Blip.QueryAiSearch.Api\\QueryAiSearch.Api.csproj",
         "packagesPath": "C:\\Users\\lipem\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lipem\\GitProject\\SearchQueryAi\\backend\\Blip.QueryAiSearch.Api\\obj\\",
         "projectStyle": "PackageReference",

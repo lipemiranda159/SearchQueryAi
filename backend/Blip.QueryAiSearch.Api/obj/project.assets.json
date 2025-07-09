@@ -75,25 +75,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\felipem.TAKENET\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\lipem\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felipem.TAKENET\\source\\repos\\Blip.QueryAiSearch.Api\\Blip.QueryAiSearch.Api\\Blip.QueryAiSearch.Api.csproj",
-      "projectName": "Blip.QueryAiSearch.Api",
-      "projectPath": "C:\\Users\\felipem.TAKENET\\source\\repos\\Blip.QueryAiSearch.Api\\Blip.QueryAiSearch.Api\\Blip.QueryAiSearch.Api.csproj",
-      "packagesPath": "C:\\Users\\felipem.TAKENET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felipem.TAKENET\\source\\repos\\Blip.QueryAiSearch.Api\\Blip.QueryAiSearch.Api\\obj\\",
+      "projectUniqueName": "C:\\Users\\lipem\\GitProject\\SearchQueryAi\\backend\\Blip.QueryAiSearch.Api\\QueryAiSearch.Api.csproj",
+      "projectName": "QueryAiSearch.Api",
+      "projectPath": "C:\\Users\\lipem\\GitProject\\SearchQueryAi\\backend\\Blip.QueryAiSearch.Api\\QueryAiSearch.Api.csproj",
+      "packagesPath": "C:\\Users\\lipem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lipem\\GitProject\\SearchQueryAi\\backend\\Blip.QueryAiSearch.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\felipem.TAKENET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lipem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -102,7 +100,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/Enlitesoft/BeatsUnion/_packaging/BeatsUnion/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
@@ -120,7 +119,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -150,7 +149,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,9 +1,9 @@
-﻿using Blip.QueryAiSearch.Api.Models;
-using Blip.QueryAiSearch.Api.Services;
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using QueryAiSearch.Api.Models;
+using QueryAiSearch.Api.Services;
 
-namespace Blip.QueryAiSearch.Api.Controllers
+namespace QueryAiSearch.Api.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

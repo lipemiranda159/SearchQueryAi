@@ -1,7 +1,7 @@
-﻿using Blip.QueryAiSearch.Api.Models;
+﻿using QueryAiSearch.Api.Models;
 using System.Text.Json;
 
-namespace Blip.QueryAiSearch.Api.Services
+namespace QueryAiSearch.Api.Services
 {
     public class QuerySearchService
     {

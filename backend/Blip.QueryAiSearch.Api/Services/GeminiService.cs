@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace Blip.QueryAiSearch.Api.Services
+namespace QueryAiSearch.Api.Services
 {
     public class GeminiService
     {

@@ -1,4 +1,4 @@
-﻿namespace Blip.QueryAiSearch.Api.Models
+﻿namespace QueryAiSearch.Api.Models
 {
     public class QuerySearchRequest
     {

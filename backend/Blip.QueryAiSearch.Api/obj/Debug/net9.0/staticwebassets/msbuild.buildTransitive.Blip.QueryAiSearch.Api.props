@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Blip.QueryAiSearch.Api.props" />
-</Project>
